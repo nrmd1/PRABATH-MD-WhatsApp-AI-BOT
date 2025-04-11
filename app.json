@@ -15,11 +15,11 @@
       "required": true
     },
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "hasanharal",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": "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",
       "required": true
     }   
 },
