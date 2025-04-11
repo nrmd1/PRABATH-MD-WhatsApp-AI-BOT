@@ -7,11 +7,11 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "94762699712",
       "required": true
     },
     "SESSION_ID": {
-      "description": "Put your session Id here.",
+      "description": "PRABATH-MD~lM4g0BKZ#IbANHcZ8ZCfQBKFX95qAVbTq2OiUHdMG3rsdEyr_YtI",
       "required": true
     },
     "GITHUB_USERNAME": {
